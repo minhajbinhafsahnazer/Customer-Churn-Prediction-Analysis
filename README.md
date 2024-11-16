@@ -1,4 +1,4 @@
- 🔍 Customer Churn Prediction Model and Analysis
+## 🔍 Customer Churn Prediction Model and Analysis
 
 Objective : Develop a predictive model to forecast customer churn and present findings in a clear, actionable format.
 
